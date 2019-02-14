@@ -1,7 +1,7 @@
 # Philippine-Fake-News-Corpus
 Philippine Fake News Corpus for my Master's Thesis entitled *"Computing the Linguistic-Based Cues of Fake News in the Philippines Towards its Detection"*
 
-This dataset contains **14,802** *"Credible" news* and **7,656** *"Not Credible" news*, all of which had its headline and news content cleaned from any atached bylines or other forms of metdata (e.g. *"Like Share Subscribe", "Like us on Faceook", "Manila, Philippines - "*) that may had been included during the scraping.
+This dataset contains **14,802** *"Credible" news* and **7,656** *"Not Credible" news*, all of which had its headline and news content cleaned from any attached bylines or other forms of metdata (e.g. *"Like Share Subscribe", "Like us on Faceook", "Manila, Philippines - "*) that may had been included during the scraping.
 
 **"Credible" news** are all hard news under the "Nation" category of Philippine's national broadsheets: *Philippine Daily Inquirer, Manila Bulletin, and The Manila Times*.
 
